@@ -1,0 +1,4 @@
+1.Names of suppliers who supply some red part for cost less than 100$
+2.Names of suppliers who supply some red or green part for cost less than 100$
+3.IDs of suppliers who supply some red and green part for cost less than 100$
+4.Names of suppliers who supply some red and green part for cost less than 100$
