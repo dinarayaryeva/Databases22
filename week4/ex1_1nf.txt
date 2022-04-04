@@ -1,0 +1,4 @@
+1NF criteria
+• Primary key (no duplicated tuples) -> we should add primary key(orderId, customerId, itemId)
+• No repeating groups -> already satisfied
+• Atomic columns (cells have single value) -> alreday satisfied
